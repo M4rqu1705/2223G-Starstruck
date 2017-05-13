@@ -1,0 +1,6 @@
+operatorControl1.c: In function 'operatorControl1':
+operatorControl1.c line# 7:11: warning: unused variable 'permanentOpen'
+operatorControl1.c line# 6:11: warning: unused variable 'openClaw'
+sdjlsd.c: In function 'sdjlsd':
+sdjlsd.c line# 6:11: warning: unused variable 'c'
+sdjlsd.c line# 5:11: warning: unused variable 'waits'

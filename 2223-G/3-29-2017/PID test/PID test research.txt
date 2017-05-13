@@ -1,0 +1,8 @@
+PID test research:
+	http://robotsforroboticists.com/pid-control/
+	https://www.vexforum.com/index.php/15574-graphing-variables-in-robotc/0
+	http://www.cplusplus.com/doc/tutorial/variables/
+	
+Conclusions:
+	1. To move a motor for a determined amount of time, you have to use a while loop (not like EasyC)
+	2. Clear debug window before using

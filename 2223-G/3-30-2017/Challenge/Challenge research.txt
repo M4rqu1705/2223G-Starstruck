@@ -1,0 +1,8 @@
+Challenge research:	
+	http://www.robotc.net/forums/viewtopic.php?t=5818&p=24142
+	http://cdn.robotc.net/pdfs/natural-language/hp_functions.pdf
+
+Conclusions:
+	1. Add waits in between functions
+	2. Reset ALL values before continuing on to the next function
+	3. use absolute value whenever looking for an encoder's value

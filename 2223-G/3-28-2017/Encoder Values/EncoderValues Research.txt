@@ -1,0 +1,46 @@
+Research:
+	http://cdn.robotc.net/pdfs/vex/curriculum/Quadrature+Encoders.pdf
+	http://robotc.net/w/index.php/Debug_Stream
+	http://www.cplusplus.com/reference/cstdio/printf/
+	
+	http://www.robotc.net/forums/viewtopic.php?f=52&t=2738
+
+Commands:
+	F1 (help)
+	F3 (repeat)
+	F5 (Compile and Download)
+	F7 (Compile)
+	Ctrl + o (open)
+	Ctrl + s (save)
+	Ctrl + w (close)
+	Ctrl + p (print)
+	Ctrl + y (redo)
+	Ctrl + z (undo)
+	Ctrl + c (copy)
+	Ctrl + x (cut)
+	Ctrl + v (paste)
+	Ctrl + h (find and replace)
+	Ctrl + f (find)
+	Ctrl + q (comment/uncomment)
+	Ctrl + F2 (bookmark)
+	Ctrl + e (errors)
+	Ctrl + + (increase font size)
+	Ctrl + - (decrease font size)
+	Alt + Ctrl + Shift + m (show/ hide menu)
+	Alt + Ctrl + Shift + f (fix code format)
+	
+Settings:
+	Preferences -> Compiler -> Create executable
+	
+Conclusions:
+	1. CANNOT USE VARIABLES TO STORE ENCODER'S REALTIME VALUES (or else they wont update nor work)
+	2. Encoders are simpler to use in RobotC than in easyC
+		No start
+		SensorValue[] = 0 (preset)
+		x = SensorValue[] (get, not recommended)
+		No stop
+	3. Motor setup is very simple and can use motor/ sensor name to reference port
+	4. writeDebugStream to print out text into the terminal
+	5. Similar to Java in many ways
+		
+	

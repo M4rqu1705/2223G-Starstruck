@@ -1,0 +1,2 @@
+Sensor interpretation research:
+	http://www.societyofrobots.com/sensors_interpret.shtml

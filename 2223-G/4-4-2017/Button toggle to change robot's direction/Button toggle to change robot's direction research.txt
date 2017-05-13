@@ -1,0 +1,4 @@
+Button toggle to change robot's direction research:
+	https://www.vexforum.com/index.php/8161-robotc-button-toggles/0
+	https://www.vexforum.com/index.php/6146-robotc-programming-tips/0
+	http://www.societyofrobots.com/programming_fuzzy_logic.shtml

@@ -1,0 +1,3 @@
+Autonomous Recording research:
+	http://stackoverflow.com/questions/37538/how-do-i-determine-the-size-of-my-array-in-c
+	

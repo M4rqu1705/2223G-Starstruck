@@ -1,0 +1,9 @@
+PD test research:
+	http://www.societyofrobots.com/programming_PID.shtml
+	http://www.robotc.net/blog/2016/08/31/robotc-vex-4-55/
+	http://www.vexiqforum.com/forum/main-category/technical-discussion/10297-datalogging-in-robotc
+	
+	
+	
+Conclusions:
+	Remember to make sure the right encoder is controlling the right and the same with the left side

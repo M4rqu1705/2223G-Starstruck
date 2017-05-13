@@ -1,0 +1,4 @@
+Driver Control research:
+	https://www.vexforum.com/index.php/7200-vex-joystick-programming/0
+	http://www.robotc.net/forums/viewtopic.php?p=5439
+	https://www.vexforum.com/index.php/6210-programming-the-joystick/0
